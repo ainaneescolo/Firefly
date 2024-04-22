@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 5da028620037d1e4ba76794c1c6b2158, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20577591296
+    m_Localized: Weiter Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706306784960512
+    m_Localized: Neues Spiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706958072291328
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707371194458112
+    m_Localized: Kredite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707786833207296
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708006820257792
+    m_Localized: Sound FX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708724578918400
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709075826712576
+    m_Localized: 'Programmierer
+
+      Aina Nees Colomina'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709141190746112
+    m_Localized: "K\xFCnstler und Animator\nHelena Valiente Serrano"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710432293986304
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2224246206308352
+    m_Localized: Verlust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2224220822380544
+    m_Localized: Sieg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9442993272487936
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9847437080363008
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10877443368099840
+    m_Localized: "Etwas \xDCberspringen"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
